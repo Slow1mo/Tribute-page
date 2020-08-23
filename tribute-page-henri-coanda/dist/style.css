@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+html, main {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+#main {
+  width:700px;
+  padding: 30px;
+  background-color: lightgrey;
+  text-align: left;
+  border-radius: 10px;
+  margin: auto;
+  line-height: 1.3;
+  font-family: 'Roboto', sans-serif;
+}
+h1, p {
+  text-align: center;
+}
+ul {
+  text-align: left;
+}
+#img-caption {
+  font-size: 12px;
+}
+
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#tribute-info {
+  font-size: 1.0rem;
+  line-height: 1.5;
+  text-align: center;
+  color: black;
+  margin: auto;
+  max-width: 850px;
+}
